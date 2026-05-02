@@ -1,0 +1,243 @@
+name                maxEvolutionLevel elixirCost   iconUrls evolutionIcons      rarity      type       mobility
+Archer Queen                          5            https://api-assets.clash     champion    troop      ground
+Archers             1                 3            https://a https://api-as     common      troop      ground
+Arrows                                3            https://api-assets.clash     common      spell      flying
+Baby Dragon         1                 4            https://ap https://api-ass   epic        troop      flying
+Balloon                               5            https://api-assets.clash     epic        troop      flying
+Bandit                                3            https://api-assets.clas      legendary   troop      ground
+Barbarian Barrel                      2            https://api-assets.clash     epic        spell      ground
+Barbarian Hut                         6            https://api-assets.clash     rare        building   ground
+Barbarians          1                 5            https://a https://api-as     common      troop      ground
+Bats                1                 2            https://ap https://api-ass   common      troop      flying
+Battle Healer                         4            https://api-assets.clashr    rare        troop      flying
+Battle Ram          1                 4            https://ap https://api-ass   rare        troop      flying
+Berserker                             2            https://api-assets.clash     common      troop      ground
+Bomb Tower                            4            https://api-assets.clash     rare        building   ground
+Bomber              1                 2            https://ap https://api-ass   common      troop      ground
+Boss Bandit                           6            https://api-assets.clashr    champion    troop      ground
+Bowler                                5            https://api-assets.clash     epic        troop      ground
+Cannon              1                 3            https://ap https://api-ass   common      building   ground
+Cannon Cart                           5            https://api-assets.clash     epic        troop      ground
+Clone                                 3            https://api-assets.clash     epic        spell      ground
+Dark Prince                           4            https://api-assets.clashr    epic        troop      ground
+Dart Goblin         1                 3            https://ap https://api-ass   rare        troop      ground
+Earthquake                            3            https://api-assets.clash     rare        spell      ground
+Electro Dragon      1                 5            https://ap https://api-ass   epic        troop      flying
+Electro Giant                         7            https://api-assets.clash     epic        troop      ground
+Electro Spirit                        1            https://api-assets.clash     common      troop      ground
+Electro Wizard                        4            https://api-assets.clashr    legendary   troop      ground
+Elite Barbarians                      6            https://api-assets.clashr    common      troop      ground
+Elixir Collector                      6            https://api-assets.clashr    rare        building   ground
+Elixir Golem                          3            https://api-assets.clashr    rare        troop      ground
+Executioner         1                 5            https://ap https://api-ass   epic        troop      ground
+Fire Spirit                           1            https://api-assets.clashro   common      troop      ground
+Fireball                              4            https://api-assets.clash     rare        spell      flying
+Firecracker         1                 3            https://ap https://api-ass   common      troop      ground
+Fisherman                             3            https://api-assets.clash     legendary   troop      ground
+Flying Machine                        4            https://api-assets.clash     rare        troop      flying
+Freeze                                4            https://api-assets.clash     epic        spell      ground
+Furnace             1                 4            https://ap https://api-ass   rare        troop      ground
+Giant                                 5            https://api-assets.clashr    rare        troop      ground
+Giant Skeleton                        6            https://api-assets.clash     epic        troop      ground
+Giant Snowball      1                 2            https://ap https://api-ass   common      spell      ground
+Goblin Barrel       1                 3            https://ap https://api-ass   epic        spell      ground
+Goblin Cage         1                 4            https://a https://api-as     rare        building   ground
+Goblin Curse                          2            https://api-assets.clash     epic        spell      ground
+Goblin Demolisher                     4            https://api-assets.clash     rare        troop      ground
+Goblin Drill        1                 4            https://ap https://api-ass   epic        building   ground
+Goblin Gang                           3            https://api-assets.clash     common      troop      ground
+Goblin Giant        1                 6            https://ap https://api-ass   epic        troop      ground
+Goblin Hut                            4            https://api-assets.clashr    rare        building   ground
+Goblin Machine                        5            https://api-assets.clashr    legendary   troop      ground
+Goblins                               2            https://api-assets.clash     common      troop      ground
+Goblinstein            5   https://api-assets.clas      champion    troop      ground
+Golden Knight          4   https://api-assets.clash     champion    troop      ground
+Golem                  8   https://api-assets.clash     epic        troop      ground
+Graveyard              5   https://api-assets.clashr    legendary   spell      ground
+Guards                 3   https://api-assets.clash     epic        troop      ground
+Heal Spirit            1   https://api-assets.clashr    rare        spell      ground
+Hog Rider              4   https://api-assets.clashr    rare        troop      ground
+Hunter             1   4   https://a https://api-as     epic        troop      ground
+Ice Golem              2   https://api-assets.clash     rare        troop      ground
+Ice Spirit         1   1   https://ap https://api-ass   common      troop      ground
+Ice Wizard             3   https://api-assets.clash     legendary   troop      ground
+Inferno Dragon     1   4   https://a https://api-as     legendary   troop      flying
+Inferno Tower          5   https://api-assets.clash     rare        building   ground
+Knight             1   3   https://ap https://api-ass   common      troop      ground
+Lava Hound             7   https://api-assets.clashr    legendary   troop      flying
+Lightning              6   https://api-assets.clashr    epic        spell      ground
+Little Prince          3   https://api-assets.clashr    champion    troop      ground
+Lumberjack         1   4   https://ap https://api-ass   legendary   troop      ground
+Magic Archer           4   https://api-assets.clash     legendary   troop      ground
+Mega Knight        1   7   https://ap https://api-ass   legendary   troop      ground
+Mega Minion            3   https://api-assets.clash     rare        troop      flying
+Mighty Miner           4   https://api-assets.clashr    champion    troop      ground
+Miner                  3   https://api-assets.clash     legendary   troop      ground
+Mini P.E.K.K.A         4   https://api-assets.clash     rare        troop      ground
+Minion Horde           5   https://api-assets.clash     common      troop      flying
+Minions                3   https://api-assets.clash     common      troop      flying
+Mirror                     https://api-assets.clash     epic        spell      both
+Monk                   5   https://api-assets.clash     champion    troop      ground
+Mortar             1   4   https://ap https://api-ass   common      building   ground
+Mother Witch           4   https://api-assets.clashr    legendary   troop      ground
+Musketeer          1   4   https://ap https://api-ass   rare        troop      ground
+Night Witch            4   https://api-assets.clash     legendary   troop      ground
+P.E.K.K.A          1   7   https://ap https://api-ass   epic        troop      ground
+Phoenix                4   https://api-assets.clash     legendary   troop      flying
+Poison                 4   https://api-assets.clashr    epic        spell      ground
+Prince                 5   https://api-assets.clashr    epic        troop      ground
+Princess               3   https://api-assets.clash     legendary   troop      ground
+Rage                   2   https://api-assets.clash     epic        spell      ground
+Ram Rider              5   https://api-assets.clashr    legendary   troop      ground
+Rascals                5   https://api-assets.clash     common      troop      ground
+Rocket                 6   https://api-assets.clashr    rare        spell      ground
+Royal Delivery         3   https://api-assets.clashr    common      spell      ground
+Royal Ghost        1   3   https://ap https://api-ass   legendary   troop      ground
+Royal Giant        1   6   https://ap https://api-ass   common      troop      ground
+Royal Hogs             5   https://api-assets.clas      rare        troop      ground
+Royal Recruits     1   7   https://ap https://api-ass   common      troop      ground
+Rune Giant             4   https://api-assets.clash     epic        troop      ground
+Skeleton Army      1   3   https://ap https://api-ass   epic        troop      ground
+Skeleton Barrel    1   3   https://a https://api-as     common      troop      ground
+Skeleton Dragons       4   https://api-assets.clash     common      troop      flying
+Skeleton King          4   https://api-assets.clash     champion    troop      ground
+Skeletons          1   1   https://a https://api-as     common      troop      ground
+Sparky                 6   https://api-assets.clashr    legendary   troop      ground
+Spear Goblins          2   https://api-assets.clash     common      troop      ground
+Suspicious Bush        2   https://api-assets.clashr    rare        troop      ground
+Tesla              1   4   https://ap https://api-ass   common      building   ground
+The Log                2   https://api-assets.clash     legendary   spell      ground
+Three Musketeers       9   https://api-assets.clash     rare        troop      ground
+Tombstone              3   https://api-assets.clashr    rare        building   ground
+Tornado                3   https://api-assets.clash     epic        spell      ground
+Valkyrie           1   4   https://ap https://api-ass   rare        troop      ground
+Vines                  3   https://api-assets.clashr    epic        spell      ground
+Void                   3   https://api-assets.clash     epic        spell      ground
+Wall Breakers      1   2   https://ap https://api-ass   epic        troop      ground
+Witch              1   5   https://ap https://api-ass   epic        troop      ground
+Wizard             1   5   https://ap https://api-ass   rare        troop      ground
+X-Bow                  6   https://api-assets.clash     epic        building   ground
+Zap                1   2   https://ap https://api-ass   common      spell      ground
+Zappies                4   https://api-assets.clashr    rare        troop      ground
+targets     attack_type   groupCard   usage   hitpoints
+ground      single        false       6.48    1000
+both        single        true        1.44    304
+both        splash        false       30.64
+both        splash        false       4.64    1152
+buildings   single        false       7.52    1679
+ground      splash        false       9.6     906
+both        splash        false       8.4     670
+ground      single        false       0.16    1164
+ground      single        true        0.32    670
+both        single        true        8.88    81
+ground      single        false       1.44    1717
+buildings   single        false       2       967
+ground      single        false       1.36    896
+ground      splash        false       2.24    1356
+ground      splash        false       2.48    332
+ground      single        false       4.32    2803
+ground      splash        false       3.04    2081
+ground      splash        false       10.64   824
+buildings   single        false       4       1730
+both        splash        false       0.88
+ground      single        false       4.24    1440
+both        single        false       9.44    261
+both        splash        false       6.72
+both        splash        false       0.8     949
+ground      splash        false       1.28    3855
+ground      single        false       6.4     230
+both        splash        false       9.84    714
+ground      single        true        3.28    1341
+ground      single        false       2.32    1070
+ground      single        false       2.96    1569
+both        splash        false       2.72    1280
+ground      single        false       1.76    230
+both        splash        false       18.64
+both        splash        false       8.08    304
+ground      single        false       4       870
+both        single        false       2.24    614
+both        splash        false       3.12
+both        splash        false       0.64    727
+buildings   single        false       2.32    4090
+buildings   single        false       2       3617
+both        splash        false       2.24
+both        splash        false       10.8
+ground      single        false       1.2     1080
+both        splash        false       1.28
+ground      single        false       0.48    1300
+ground      single        false       1.92    1313
+ground      single        true        26.16   202
+buildings   single        false       0.56    3233
+ground      splash        false       0.4     1228
+ground      single        false       0.88    2304
+ground      single        true        3.6     202
+ground      single   false   4.64    721
+ground      single   false   1.68    1799
+ground      single   false   2.24    5120
+both        splash   false   3.44
+ground      single   true    11.84   337
+both        splash   false   1.6     230
+buildings   single   false   19.44   1697
+both        single   false   1.52    885
+ground      single   false   4.08    1198
+ground      single   false   20.64   230
+both        splash   false   7.2     688
+both        splash   false   8.16    1295
+both        single   false   7.6     1748
+ground      single   false   8.88    1766
+buildings   single   false   2.4     3581
+both        splash   false   7.04
+ground      single   false   1.76    698
+buildings   single   false   4.32    1282
+both        splash   false   4.08    529
+ground      single   false   5.04    3993
+both        single   false   3.28    837
+ground      single   false   4.24    2250
+ground      single   false   8       1210
+ground      single   false   7.36    1361
+both        single   true    1.44    230
+both        single   true    2.88    230
+both                 false   1.84
+ground      single   false   2.32    2150
+buildings   splash   false   0.32    1369
+ground      single   false   2       529
+both        single   false   5.12    721
+both        single   false   3.12    906
+ground      single   false   3.28    3760
+both        single   false   1.6     1052
+both        splash   false   7.44
+ground      single   false   9.92    1920
+both        splash   false   9.92    261
+both        splash   false   8.48
+buildings   single   false   3.2     1697
+ground      single   true    1.36    2201
+both        splash   false   7.44
+both        splash   false   4       787
+ground      single   false   5.52    1210
+buildings   single   false   0.72    3164
+ground      single   true    4.48    837
+ground      single   true    0.96    787
+ground      single   false   0.32    2508
+ground      single   true    6.8     81
+buildings   single   false   5.36    532
+both        single   true    2.72    560
+ground      splash   false   3.68    2298
+ground      single   true    14.56   81
+ground      single   false   3.12    1451
+both        single   true    4       133
+ground      single   false   1.12    81
+both        single   false   8.64    1152
+both        splash   false   42.88
+ground      splash   true    0.72    721
+ground      single   false   2.56    529
+both        splash   false   13.52
+ground      splash   false   3.04    1907
+both        splash   false
+both        splash   false   0.8
+buildings   single   true    7.12    330
+both        splash   false   5.12    839
+both        splash   false   2.72    755
+buildings   single   false   3.04    1600
+both        splash   false   11.36
+ground      single   true    1.28    529
+
